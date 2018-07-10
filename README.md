@@ -1,6 +1,6 @@
 ## 项目名称：望山
 
-项目slogan :Education is  life　教育就是人生
+项目slogan :Education is your life　教育就是你的人生
 
 ### 项目备用名称：
 回到望山   

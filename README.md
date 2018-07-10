@@ -29,8 +29,10 @@
 3.团队分工   (Deadline:0714)
   - 初步分工　　0710
   
-4.Demo制作  (Deadline:0721)
-5.BP打磨　(Deadline:0728)
+4.Demo制作  (Deadline:0721)  
+
+5.BP打磨　(Deadline:0728)  
+
 6.终版提交 (Deadline:0805)
 
 7.结业路演  (Deadline:0807)
